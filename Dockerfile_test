@@ -1,0 +1,4 @@
+FROM build_container
+
+#wywolaj testy
+RUN pytest tests
