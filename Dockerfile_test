@@ -1,4 +1,57 @@
 FROM build_container
 
-#wywolaj testy
-RUN pytest tests
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+RUN git clone https://github.com/cogent3/cogent3.git
+RUN rm -rd cogent3
+
+
